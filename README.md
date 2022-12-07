@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vimalmohanjain
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning CS50
+- 🌱 I’m currently pursuing CS50
 - 💞️ I’m looking to collaborate on web programming
 - 📫 How to reach me ...
 
